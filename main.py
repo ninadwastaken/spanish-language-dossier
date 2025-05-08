@@ -32,7 +32,7 @@ st.divider()
 
 st.header("Future Goals")
 st.info("I want to be fluent in Spanish to the point that my ethnicity gets questioned. To do so, I will take more "
-        "Spanish classes"
+        "Spanish classes "
         "and indulge in more conversations with native speakers. In addition, I plan on travelling the Americas, "
         "which will bolster"
         "my Spanish and my understanding of the diverse cultures of the region.")
