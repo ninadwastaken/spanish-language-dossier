@@ -6,6 +6,9 @@ st.markdown("<h5 style='text-align: center;'><i>(A1 Rubric: Spoken Production) <
 st.divider()
 st.subheader("I made a short day-in-my-life vlog on an average day in NYUAD.")
 
+
+st.video("https://youtu.be/7ZJa7AEy3uc")
+
 st.info('''
 Here is the text that I’ve used:
 

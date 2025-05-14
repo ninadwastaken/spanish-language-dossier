@@ -34,7 +34,7 @@ st.header("Future Goals")
 st.info("I want to be fluent in Spanish to the point that my ethnicity gets questioned. To do so, I will take more "
         "Spanish classes "
         "and indulge in more conversations with native speakers. In addition, I plan on travelling the Americas, "
-        "which will bolster"
+        "which will bolster "
         "my Spanish and my understanding of the diverse cultures of the region.")
 st.info("I want to thank Professor Eduardo Lage-Otero, and my peer tutor Silvana for helping me get to this stage "
         "in my Spanish journey. I hope to make you proud in the future!")
