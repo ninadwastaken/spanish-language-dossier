@@ -21,6 +21,9 @@ with col2:
 
 st.divider()
 
+st.video("https://youtu.be/onmQNXtkPjs")
+st.divider()
+
 st.header("Highlights")
 st.table(pd.DataFrame({
     "Works": ["Language Passport", "Peer Tutoring Sessions", "Midterm Exam", "Final Dossier & Video"],
