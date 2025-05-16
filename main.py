@@ -22,6 +22,8 @@ with col2:
 st.divider()
 
 st.video("https://youtu.be/onmQNXtkPjs")
+
+st.divider()
 st.divider()
 
 st.header("Highlights")
